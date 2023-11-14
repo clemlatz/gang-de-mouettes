@@ -17,6 +17,9 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/clemlatz/gang-de-mouettes',
 			},
+			customCss: [
+				'./src/styles.css',
+			],
 			sidebar: [
 				{
 					label: 'Introduction',

@@ -1,0 +1,5 @@
+.content img {
+  box-shadow: rgba(0,0,0, 10%) 1px 1px 5px;
+  margin: auto;
+  max-width: 320px;
+}
